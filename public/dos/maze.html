@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <style>
+         html, body, #jsdos {
+             width: 100%;
+             height: 100%;
+             margin: 0;
+             padding: 0;
+         }
+        </style>
+        <script src="/dos/jsdos/js-dos.js"></script>
+        <link href="/dos/jsdos/js-dos.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="jsdos" />
+        <script>
+         emulators.pathPrefix = "/dos/jsdos/";
+         Dos(document.getElementById("jsdos"))
+             .run("/dos/roms/ac.jsdos.zip");
+        </script>
+    </body>
+</html>
