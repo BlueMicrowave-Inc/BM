@@ -2,7 +2,7 @@ FarmClickerApp.controller('ProductivityController', ['$scope', '$http', 'product
 
   $scope.productivityUpgrades = {};
 
-  $http.get('/modules/productivity/ProductivityUpgrades.js').success(function(data) {
+  $http.get('modules/productivity/ProductivityUpgrades.js').success(function(data) {
     $scope.productivityUpgrades = data;
   });
 

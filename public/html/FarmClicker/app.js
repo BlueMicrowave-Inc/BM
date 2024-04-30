@@ -4,10 +4,10 @@ FarmClickerApp.config(function($routeProvider){
   $routeProvider
   .when('/', {
     controller: 'ApplicationController',
-    templateUrl: 'modules/application/app.html'
+    templateUrl: 'html/FarmClicker/modules/application/app.html'
   })
   .when('/about', {
-    templateUrl: 'modules/about/about.html'
+    templateUrl: 'html/FarmClicker/modules/about/about.html'
   })
   .otherwise({
     redirectTo: '/'

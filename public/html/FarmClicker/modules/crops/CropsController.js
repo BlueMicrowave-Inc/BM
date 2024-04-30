@@ -2,7 +2,7 @@ FarmClickerApp.controller('CropsController', ['$scope', '$http', 'productivity',
 
   $scope.cropsData = {};
 
-  $http.get('/modules/crops/CropsData.js').success(function(data) {
+  $http.get('html/FarmClicker/modules/crops/CropsData.js').success(function(data) {
     $scope.cropsData = data;
   });
 
