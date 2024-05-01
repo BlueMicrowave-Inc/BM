@@ -1,0 +1,48 @@
+The End Of Year Update Patch Log:
+
+Misc. Fixes and Additions:
+-Upgraded the version of Papa's Burgeria on the website
+-Fixed some gramattical errors
+-Changed the UI quite a bit
+-games.html now redirects to games-n.html to preserve any old bookmarks
+
+Games Added:
+-FlyGuy
+-Wasted Sky
+-Marvin Spectrum
+-Alien Hominid
+-Dino Game 
+-Wolfenstein 3D
+-Google Snake
+-Google Baseball
+-Flash Sonic
+-MotherLoad
+-The World's Hardest Game
+-The World's Hardest Game 2
+-Doge Miner
+-Minesweeper
+-2048
+-Henry Stickman - Breaking the Bank
+-Henry Stickman - Escaping the Prision
+-Henry Stickman - Stealing the Diamond
+-Henry Stickman - Infiltrating the Airship
+-Henry Stickman - Fleeing the Complex
+-Stick RPG
+-Pacman (Flash)
+-Pong
+-Run
+-Run 2
+-Run 3
+-Electricman 2
+-Fancy Pants Adventure
+-Flash Tetris
+-Duck Hunt (Flash)
+-Duck Life
+-Duck Life 2
+-Buck Life 3
+-Bloons TD
+-Papa's Scooperia
+(35 Games, just like I promised :)
+
+Notes:
+If you run into any issues with these games please let me know, as I was in a bit of a rush to get this update out.
