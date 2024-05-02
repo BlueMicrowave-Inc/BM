@@ -2,7 +2,7 @@
   "swfs": [
     {
       "location": "logo-anim.swf",
-      "title": "Ruffle Logo",
+      "title": "Click Me",
       "author": "Ruffle contributors",
       "authorLink": "https://ruffle.rs",
       "config": {
